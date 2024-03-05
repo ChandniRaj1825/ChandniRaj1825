@@ -21,8 +21,5 @@ I believe in writing clean, modular code and am always eager to stay updated wit
 - **LinkedIn:** www.linkedin.com/in/chandni-r-a73720170
 - **Email:** chandniraj068@gmail.com
 
-## 📈 GitHub Stats
 
-[ChandniRaj1825](https://github-readme-stats.vercel.app/api?username=ChandniRaj1825&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-Feel free to explore my repositories below and don't hesitate to reach out if you have any questions or just want to connect. Happy coding! 🚀
