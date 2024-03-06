@@ -21,5 +21,6 @@ I believe in writing clean, modular code and am always eager to stay updated wit
 - **LinkedIn:** www.linkedin.com/in/chandni-r-a73720170
 - **Email:** chandniraj068@gmail.com
 
-
+## Projects
+- **Parallax Website:**http://127.0.0.1:5500/index.html
 
